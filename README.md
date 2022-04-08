@@ -14,7 +14,10 @@ Maybe I don't have a lot of experience, but I am a person who loves to learn new
 
 
 <img src="https://github.com/Usumasinto/Usumasinto/blob/main/mainScreen.png" width="256"/>
-<img src="https://github.com/Usumasinto/Usumasinto/blob/main/CUESA.png width="256"/>
+<img src="https://github.com/Usumasinto/Usumasinto/blob/main/CUESA.png" width="500"/>
+## URL - https://cuesamedicina.herokuapp.com/ ##
+
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Usumasinto&hide=contribs,prs)
