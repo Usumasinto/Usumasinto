@@ -1,19 +1,11 @@
 <h1 align="center">Hi 👋, I'm Daniel Ramirez</h1>
 <h3 align="center">A passionate IT engineer</h3>
 
-I am from Mexico but right now, living in Canada. I studied in Mexico my Degree of IT engineering and now, I am studying in Canada IT at the Institut Teccart (DEP) but now focused in th tech Support.
-
-Maybe I don't have a lot of experience, but I am a person who loves to learn new things about my professional area as well as for life and I am always motivated to get more experience and more knowledges about everything
-
-- 🔭 I’m currently working on **Social Media for School**
-- 📄 Know about my experiences [https://my.indeed.com/p/juandanielr-2mksxnl](https://my.indeed.com/p/juandanielr-2mksxnl)
-- ⚡ Fun fact **I am always happy**
-
+- 🔭 I’m currently working on **Restaurant webiste and booking**
 
 ##Example of work##
 
 
-<img src="https://github.com/Usumasinto/Usumasinto/blob/main/mainScreen.png" width="256"/>
 <img src="https://github.com/Usumasinto/Usumasinto/blob/main/CUESA.png" width="500"/>
 ## URL - https://cuesamedicina.herokuapp.com/ ##
 
