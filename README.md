@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Daniel Ramirez</h1>
 <h3 align="center">A passionate IT engineer</h3>
 
+<p>I am a Full Stack Software Engineer with over 1.5 years of experience in web development, specialized in MERN Stack. I am a highly committed, hardworking individual with extensive experience in software engineering and management of complicated situations. I have a great ability to work in teams, taking initiative to coordinate projects and leading others to success. I am currently based in Montreal and looking for a new challenge that will allow me to continue to grow my technical and interpersonal skills.</p>
+
 - 🔭 I’m currently working on **Restaurant webiste and booking**
 
 ##Example of work##
